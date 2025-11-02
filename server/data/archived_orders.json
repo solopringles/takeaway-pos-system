@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "id": "b86926aa-3c3a-435a-85ae-2a9857048795",
+        "menuItem": {
+          "id": "58",
+          "name": {
+            "en": "Chicken Curry",
+            "zh": "咖喱鸡"
+          },
+          "price": 6,
+          "primaryCategory": "Chicken",
+          "secondaryCategory": "Curry Dishes"
+        },
+        "displayName": "Chicken Curry | 咖喱鸡",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6
+      },
+      {
+        "id": "a95840b8-c74e-45a7-be17-b91d0d6c639f",
+        "menuItem": {
+          "id": "M1",
+          "name": {
+            "en": "Chicken in Sambal Sauce",
+            "zh": "叁巴鸡"
+          },
+          "price": 6.2,
+          "primaryCategory": "Chicken",
+          "secondaryCategory": "Malaysian Sambal Dishes"
+        },
+        "displayName": "Chicken in Sambal Sauce | 叁巴鸡",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.2
+      }
+    ],
+    "orderType": "Collection",
+    "customerInfo": {},
+    "discount": 0,
+    "subtotal": 12.2,
+    "total": 12.2,
+    "deliveryCharge": 2.5,
+    "paymentDetails": {
+      "amountPaid": 12.2,
+      "changeDue": 0
+    },
+    "archivedAt": "2025-11-02T20:29:56.277Z"
+  },
+  {
+    "id": 2,
+    "items": [
+      {
+        "id": "501fd423-85e8-460b-b484-e1b4afa9ab92",
+        "menuItem": {
+          "id": "39",
+          "name": {
+            "en": "Sweet & Sour Chicken in Batter (10)",
+            "zh": "甜酸鸡球 (10个)"
+          },
+          "price": 6.3,
+          "primaryCategory": "Chicken",
+          "secondaryCategory": "Sweet & Sour Dishes"
+        },
+        "displayName": "Sweet & Sour Chicken in Batter (10) | 甜酸鸡球 (10个)",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.3
+      },
+      {
+        "id": "05e7b94d-b9aa-4992-95c8-8294d73f3a6f",
+        "menuItem": {
+          "id": "58",
+          "name": {
+            "en": "Chicken Curry",
+            "zh": "咖喱鸡"
+          },
+          "price": 6,
+          "primaryCategory": "Chicken",
+          "secondaryCategory": "Curry Dishes"
+        },
+        "displayName": "Chicken Curry | 咖喱鸡",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6
+      },
+      {
+        "id": "67ffdf6a-61f5-437d-a132-a8aebef5fe79",
+        "menuItem": {
+          "id": "1",
+          "name": {
+            "en": "Crispy Aromatic Duck",
+            "zh": "香酥鸭"
+          },
+          "primaryCategory": "Duck",
+          "secondaryCategory": "Appetisers",
+          "options": [
+            {
+              "name": "Quarter",
+              "price": 9.6
+            },
+            {
+              "name": "Half",
+              "price": 18
+            },
+            {
+              "name": "Whole",
+              "price": 36
+            }
+          ]
+        },
+        "displayName": "Crispy Aromatic Duck (Whole)",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 36
+      }
+    ],
+    "orderType": "Delivery",
+    "customerInfo": {
+      "phone": "07987654321",
+      "name": "Test Customer",
+      "postcode": "NG10 1AA",
+      "houseNumber": "123",
+      "street": "High Street",
+      "town": "Long Eaton",
+      "address": "123 High Street, Long Eaton, NG10 1AA"
+    },
+    "discount": 0,
+    "subtotal": 48.3,
+    "total": 50.8,
+    "deliveryCharge": 2.5,
+    "paymentDetails": {
+      "amountPaid": 50.8,
+      "changeDue": 0
+    },
+    "archivedAt": "2025-11-02T20:36:58.332Z"
+  }
+]
