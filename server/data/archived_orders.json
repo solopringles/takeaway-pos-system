@@ -136,5 +136,965 @@
       "changeDue": 0
     },
     "archivedAt": "2025-11-02T20:36:58.332Z"
+  },
+  {
+    "id": 3,
+    "items": [
+      {
+        "id": "bb2728db-0c33-4f94-99de-86d2dbb19ef3",
+        "menuItem": {
+          "id": "58",
+          "name": {
+            "en": "Chicken Curry",
+            "zh": "咖喱鸡"
+          },
+          "price": 6,
+          "primaryCategory": "Chicken",
+          "secondaryCategory": "Curry Dishes"
+        },
+        "displayName": "Chicken Curry | 咖喱鸡",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6
+      },
+      {
+        "id": "862e5f01-f2a4-42c0-a475-6c6b7225bb92",
+        "menuItem": {
+          "id": "M1",
+          "name": {
+            "en": "Chicken in Sambal Sauce",
+            "zh": "叁巴鸡"
+          },
+          "price": 6.2,
+          "primaryCategory": "Chicken",
+          "secondaryCategory": "Malaysian Sambal Dishes"
+        },
+        "displayName": "Chicken in Sambal Sauce | 叁巴鸡",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.2
+      }
+    ],
+    "orderType": "Collection",
+    "customerInfo": {},
+    "discount": 0,
+    "subtotal": 12.2,
+    "total": 12.2,
+    "deliveryCharge": 2.5,
+    "paymentDetails": {
+      "amountPaid": 22,
+      "changeDue": 9.8
+    },
+    "archivedAt": "2025-11-07T21:09:23.051Z"
+  },
+  {
+    "id": 4,
+    "items": [
+      {
+        "id": "575d47c8-4ec9-4e8b-82cc-3203788b8529",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "9a4a710c-c22f-4daf-a7f2-89eda0a5c541",
+        "menuItem": {
+          "id": "6",
+          "name": {
+            "en": "Salt & Pepper King Prawn",
+            "zh": "椒盐大虾"
+          },
+          "price": 6.6,
+          "primaryCategory": "King Prawn",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper King Prawn | 椒盐大虾",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "7e2d7793-7fbd-4e93-9b9c-8a55201c5844",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "4523ad07-389d-4ff5-ab4c-e24c306464fc",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "deb7e25c-d5ee-44a4-b6f1-7076af482001",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "d0791bf6-97a2-4d9f-a8d6-db467022116a",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "44990c55-6be2-4669-877c-1ac45229b598",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "97561f7e-e1bc-4ae7-973a-77f1aa2fc0a6",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "05edee11-d1db-4f0b-bf57-5c4c5a5e8265",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "21d4071d-aad7-417c-884c-539b1a993168",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "1446d852-1b04-47fb-a525-53075f9c8b21",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "7de2e92e-c80a-42c9-a919-0f5f2e57aaff",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "0d30a4ab-1a6b-4698-a529-3feb3526a807",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "64d199ba-91bf-436a-b3bf-64acf1f377b2",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "a0dbae4f-6310-42be-b547-0b92a921b15d",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "29dede45-391f-4a6d-b681-c0fd7c58e89d",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "ae01c425-1c12-47ae-9e34-ccd729a4e380",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "b8c38949-e788-4f41-8392-e3a855ba5588",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "8fceaa97-c11a-45ef-b01a-07ce859f441f",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "d9d5e9a6-2b60-491b-8900-977d2ca6f9b5",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "59534ee7-4611-4127-9479-fa8319bb1e93",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "a96d4d94-87fc-49dc-8130-c4fb7f3ea301",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "9278f614-93ee-4c67-8b99-918a2943b319",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "33006f21-4018-4257-b6b4-ad644c511588",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "a73f2cc3-5709-42cd-b46e-1675fa4b8125",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "24c9597f-ef14-45d0-9297-b1c975e3dd79",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "cd4c67a7-897e-4fd9-a2bb-e61be23f56b1",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "8268918f-7a01-4842-99c7-698344252303",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "366c2b31-21e8-439f-83b1-ee9882902fc9",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "c82d6705-9a11-4650-9c15-23cf4e073577",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "ca7ca4a7-c10b-4c1b-b3a8-6bbe50ad9319",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "d4bfbe14-6ba3-4b6f-b120-56f8de322674",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "5f7c437f-67af-4447-9f05-b52812181033",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "ba38412a-f35b-405b-9295-440cad2fd9e6",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "5169e560-83a4-4e99-95bb-735fe433b6a5",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "ee5c27bb-cdb9-4a68-ad78-c20ea07b864c",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "6319ea6b-1890-4ae5-b0b5-cce45d22cf0f",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "35a187d6-d9bd-4358-9baa-a17745157e92",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "63f48ff7-9aa0-42db-a2a1-10ca99fae99b",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "34c304b4-b8ee-4527-b3d3-c00486c22c93",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "29ff79c0-d6d5-4fad-a957-391e5866ec66",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "0617f567-e5a4-47eb-87db-4c3211d17082",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "82497c66-5713-4e9e-8147-6709a4c5a924",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "64ea013e-ce01-401c-83a4-9d8d77246d67",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "df5b541d-83f2-40e3-8463-04fef3e0842b",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "57735722-bff8-445b-a7b3-83f025bc1e48",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "3dd56734-d641-4cd8-b136-a8388cd1ac33",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "f222ffc1-fe77-44d5-974a-f813aef17d29",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "a548b9d4-e6b4-4929-8c72-f00224245d8e",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "6fadb2d9-d1c7-4f06-a6f0-33915a2a53d4",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "4f11d93e-19f9-4d79-9bc8-197284986337",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      },
+      {
+        "id": "69fdf33f-8cee-4f46-b57f-86bebcb6204f",
+        "menuItem": {
+          "id": "7",
+          "name": {
+            "en": "Salt & Pepper Squid",
+            "zh": "椒盐鱿鱼"
+          },
+          "price": 6.6,
+          "primaryCategory": "Squid",
+          "secondaryCategory": "Appetisers"
+        },
+        "displayName": "Salt & Pepper Squid | 椒盐鱿鱼",
+        "modifiers": [],
+        "quantity": 1,
+        "finalPrice": 6.6
+      }
+    ],
+    "orderType": "Collection",
+    "customerInfo": {
+      "name": "joe",
+      "phone": "",
+      "address": "",
+      "houseNumber": "",
+      "street": "",
+      "town": "",
+      "postcode": "",
+      "distance": 0,
+      "deliveryInstructions": ""
+    },
+    "discount": 0,
+    "subtotal": 343.20000000000016,
+    "total": 343.20000000000016,
+    "deliveryCharge": 2.5,
+    "paymentDetails": {
+      "amountPaid": 2222,
+      "changeDue": 1878.7999999999997
+    },
+    "archivedAt": "2025-11-07T21:10:07.214Z"
   }
 ]
